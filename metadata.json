@@ -1,0 +1,6 @@
+{
+  "name": "VeloPlay",
+  "description": "Offline YouTube-style video player powered by Media3 ExoPlayer with smooth up-to-8x playback speed slider and audio pitch shifting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

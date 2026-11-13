@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VeloPlay</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_library">You</string>
+    <string name="search_videos_hint">Search offline videos</string>
+    <string name="import_subtitles">Load Subtitles (.srt / .vtt)</string>
+    <string name="playback_speed">Playback speed</string>
+    <string name="audio_pitch">Audio pitch</string>
+    <string name="pitch_lock_title">Lock natural pitch</string>
+    <string name="pitch_lock_subtitle">Keeps voices natural at 0.25x – 8.0x via Sonic DSP</string>
+    <string name="loop_video">Loop video</string>
+    <string name="captions">Captions</string>
+    <string name="quality_decoder">Quality &amp; Decoder</string>
+    <string name="lock_screen">Lock screen</string>
+    <string name="screen_locked_banner">Screen locked • Tap to unlock</string>
+    <string name="up_next">Up next</string>
+    <string name="autoplay">Autoplay</string>
+    <string name="empty_library_title">No offline videos found</string>
+    <string name="empty_library_subtitle">Grant storage permission to automatically load all videos saved on your device.</string>
+    <string name="grant_storage_permission">Allow Video Access</string>
+    <string name="pip_mode">Floating Window</string>
+    <string name="background_play">Background Play</string>
+</resources>
